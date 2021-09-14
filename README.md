@@ -15,7 +15,9 @@
 
 ### Guias
  Instalación del sistema operativo RaspberryPi OS:
+ 
  Instalar gcc para Raspberry:
+ 
  Instalar la libería WiringPi: 
 
 ----------------------------------------------------------------------------------------------------
@@ -23,6 +25,7 @@
 ### Funcionamiento
 
 14-septiembre-2021: La carpeta "Secuencia Leds" incluye un archivo con comandos en para ejecutar desde un shell de python para encender y apagar LEDs manualmente
+
 14-septiembre-2021: La carpeta "SecLEDs" incluye un programa en c que prende y apaga 4 LEDs automaticamente en diferentes secuencias usando secuencias no bloqueantes
 
 *Nota: Para el programa contenido en SecLEDs falta realizar el envío y recepción de mensajes utilizando MQTT (no visto en clase)
