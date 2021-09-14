@@ -1,0 +1,28 @@
+exclusiva descendente
+0 0 0 0
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+
+aditiva descendente
+0 0 0 0
+1 0 0 0
+1 1 0 0
+1 1 1 0
+1 1 1 1
+
+exclusiva ascendente
+0 0 0 0
+0 0 0 1
+0 0 1 0
+0 1 0 0
+1 0 0 0
+
+aditiva ascendente
+0 0 0 0
+0 0 0 1
+0 0 1 1
+0 1 1 1
+1 1 1 1
+

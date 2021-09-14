@@ -7,7 +7,7 @@
  * Secuencia A: Ascendente exclusiva: 0000 -> 0001 -> 0010 -> 0100 -> 1000
  * Secuencia B: Descendente exclusiva: 0000 -> 1000 -> 0100 -> 0010 -> 0001
  * Secuencia C: Ascendente aditiva: 0000 -> 0001 -> 0011 -> 0011 -> 1111
- * Secuencia D: Descendente aditiva: 1111 -> 0111 -> 0011 -> 0001 -> 0000
+ * Secuencia D: Descendente aditiva: 0000 -> 1000 -> 1100 -> 1110 -> 1111
  * 
  * La secuencia que se ejecuta se repita cada segundo. Es decir, cada estado dura 0.2 segundos. 
  * Hay cambios de secuencia cada 5 segundo. 
