@@ -46,6 +46,8 @@ La carpeta "RFID" contiene un script de python que lee una tarjeta de RF con un 
 
 La carpeta "Temperatura_CPU_node_red" contiene el flow de node red para desplegar uso y temperatura de los CPUs de la Raspberry. 
 
+La carpeta "PI4J" contiene un programa en Java para prender y apagar un LED utilizando PI4J. 
+
 Cada progama tiene como anexo fotos del circuito armado y un video que muestra su funcionamiento
 
 ----------------------------------------------------------------------------------------------------
